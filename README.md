@@ -8,6 +8,11 @@ The goal is to document my approach, maintain clean and efficient code, and make
 
 ---
 
+## Took this test on HackerRank on 2nd August 2025. Certificate can be viewed [**here**](https://www.hackerrank.com/certificates/c73a6c8cff3e)
+
+---
+
+
 ## 📌 Contents
 Each `.py` file corresponds to a specific HackerRank problem.  
 File names are descriptive for easy identification.
