@@ -18,6 +18,7 @@ File names are descriptive for easy identification.
 ## ▶ File Description
 1. avg_function.py # Create a function that returns the average of given numbers
 2. vending_machine.py # Simulate a vending machine transaction process
+3. multiset_implementation.py # Multiset implementation (add,remove,contain,len) Basic operations
 
 ---
 
