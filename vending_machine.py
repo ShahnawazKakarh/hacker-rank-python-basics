@@ -1,3 +1,6 @@
+#Vending machine problem - Python Basic skill certification test
+#!/bin/python3
+
 import os
 
 class VendingMachine:
